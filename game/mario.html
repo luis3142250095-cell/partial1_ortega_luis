@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Mario - Mini juego de plataformas</title>
+    <style>
+        body { text-align: center; margin: 24px 12px; font-family: Arial, sans-serif; }
+        canvas { display: block; width: 800px; max-width: 100%; height: auto; border: 2px solid #222; margin: 20px auto; }
+        button { padding: 10px 18px; margin: 4px; cursor: pointer; touch-action: none; }
+        p { line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <h1>PLAY MARIO</h1>
+    <p>Mini juego de plataformas para la práctica. Recoge las 3 monedas y llega a la bandera.</p>
+    <p>Muévete con las flechas o A/D. Salta con Espacio, W o flecha arriba. Reinicia con R.</p>
+    <canvas id="game" width="800" height="360" aria-label="Mini juego de plataformas">Tu navegador necesita admitir canvas para jugar.</canvas>
+    <p id="status" role="status" aria-live="polite">Monedas: 0 / 3</p>
+    <div>
+        <button id="left" type="button">Izquierda</button>
+        <button id="jump" type="button">Saltar</button>
+        <button id="right" type="button">Derecha</button>
+        <button id="restart" type="button">Reiniciar</button>
+    </div>
+    <p><a href="../index.html">Volver al índice</a></p>
+    <script src="game.js"></script>
+</body>
+</html>
