@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="790" viewBox="0 0 760 790" role="img" aria-labelledby="title">
-<title id="title">Client registration flowchart</title>
+<svg xml:lang="es" xmlns="http://www.w3.org/2000/svg" width="760" height="790" viewBox="0 0 760 790" role="img" aria-labelledby="title">
+<title id="title">Diagrama de flujo del registro de clientes</title>
 <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222"/></marker></defs>
 <rect width="760" height="790" fill="white"/>
 <g fill="white" stroke="#222" stroke-width="2">
-<text x="380" y="36" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="22" font-weight="bold">DIAGRAM 2 - CLIENTS</text>
+<text x="380" y="36" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="22" font-weight="bold">DIAGRAMA 2 - CLIENTES</text>
 <rect x="265.0" y="67.0" width="230" height="56" rx="28.0"/>
-<text x="380" y="101" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">START</text>
+<text x="380" y="101" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">INICIO</text>
 <polygon points="283.0,157.0 495.0,157.0 477.0,213.0 265.0,213.0 283.0,157.0"/>
-<text x="380" y="191" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Enter client data</text>
+<text x="380" y="191" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Ingresar datos del cliente</text>
 <polygon points="380,262.0 495.0,305 380,348.0 265.0,305 380,262.0"/>
-<text x="380" y="311" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Client exists?</text>
+<text x="380" y="311" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">¿El cliente existe?</text>
 <rect x="82.5" y="407.0" width="225" height="56" rx="0"/>
-<text x="195" y="441" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Update the client</text>
+<text x="195" y="441" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Actualizar el cliente</text>
 <rect x="447.5" y="407.0" width="235" height="56" rx="0"/>
-<text x="565" y="441" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Register a new client</text>
+<text x="565" y="441" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Registrar un cliente nuevo</text>
 <rect x="265.0" y="537.0" width="230" height="56" rx="0"/>
-<text x="380" y="571" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Save client data</text>
+<text x="380" y="571" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Guardar datos del cliente</text>
 <rect x="265.0" y="647.0" width="230" height="56" rx="28.0"/>
-<text x="380" y="681" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">END</text>
+<text x="380" y="681" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">FIN</text>
 <polyline points="380,123 380,157" fill="none"/>
 <polygon points="380,157 376.0,147.0 384.0,147.0 380,157" fill="#222" stroke="none"/>
 <polyline points="380,213 380,262" fill="none"/>
 <polygon points="380,262 376.0,252.0 384.0,252.0 380,262" fill="#222" stroke="none"/>
 <polyline points="265,305 195,305 195,407" fill="none"/>
 <polygon points="195,407 191.0,397.0 199.0,397.0 195,407" fill="#222" stroke="none"/>
-<text x="221" y="287" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="15" font-weight="normal">Yes</text>
+<text x="221" y="287" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="15" font-weight="normal">Sí</text>
 <polyline points="495,305 565,305 565,407" fill="none"/>
 <polygon points="565,407 561.0,397.0 569.0,397.0 565,407" fill="#222" stroke="none"/>
 <text x="535" y="287" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="15" font-weight="normal">No</text>
@@ -34,5 +34,5 @@
 <polygon points="380,505 390.0,501.0 390.0,509.0 380,505" fill="#222" stroke="none"/>
 <polyline points="380,593 380,647" fill="none"/>
 <polygon points="380,647 376.0,637.0 384.0,637.0 380,647" fill="#222" stroke="none"/>
-<text x="380" y="750" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Example: registering and updating client information.</text>
+<text x="380" y="750" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Ejemplo: registro y actualización de datos del cliente.</text>
 </g></svg>

@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="915" viewBox="0 0 760 915" role="img" aria-labelledby="title">
-<title id="title">Payment flowchart</title>
+<svg xml:lang="es" xmlns="http://www.w3.org/2000/svg" width="760" height="915" viewBox="0 0 760 915" role="img" aria-labelledby="title">
+<title id="title">Diagrama de flujo de pagos</title>
 <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222"/></marker></defs>
 <rect width="760" height="915" fill="white"/>
 <g fill="white" stroke="#222" stroke-width="2">
-<text x="380" y="36" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="22" font-weight="bold">DIAGRAM 3 - MONEY</text>
+<text x="380" y="36" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="22" font-weight="bold">DIAGRAMA 3 - DINERO</text>
 <rect x="225.0" y="67.0" width="250" height="56" rx="28.0"/>
-<text x="350" y="101" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">START</text>
+<text x="350" y="101" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">INICIO</text>
 <polygon points="243.0,157.0 475.0,157.0 457.0,213.0 225.0,213.0 243.0,157.0"/>
-<text x="350" y="191" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Show the amount to pay</text>
+<text x="350" y="191" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Mostrar el monto a pagar</text>
 <rect x="225.0" y="247.0" width="250" height="56" rx="0"/>
-<text x="350" y="281" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Choose payment method</text>
+<text x="350" y="281" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Elegir el método de pago</text>
 <rect x="225.0" y="337.0" width="250" height="56" rx="0"/>
-<text x="350" y="371" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Make the payment</text>
+<text x="350" y="371" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Realizar el pago</text>
 <polygon points="350,442.0 475.0,485 350,528.0 225.0,485 350,442.0"/>
-<text x="350" y="491" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Payment accepted?</text>
+<text x="350" y="491" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">¿El pago fue aceptado?</text>
 <rect x="225.0" y="577.0" width="250" height="56" rx="0"/>
-<text x="350" y="611" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Record the payment</text>
+<text x="350" y="611" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Registrar el pago</text>
 <polygon points="243.0,677.0 475.0,677.0 457.0,733.0 225.0,733.0 243.0,677.0"/>
-<text x="350" y="711" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Show the receipt</text>
+<text x="350" y="711" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Mostrar el comprobante</text>
 <rect x="225.0" y="777.0" width="250" height="56" rx="28.0"/>
-<text x="350" y="811" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">END</text>
+<text x="350" y="811" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">FIN</text>
 <polyline points="350,123 350,157" fill="none"/>
 <polygon points="350,157 346.0,147.0 354.0,147.0 350,157" fill="#222" stroke="none"/>
 <polyline points="350,213 350,247" fill="none"/>
@@ -30,17 +30,17 @@
 <polygon points="350,442 346.0,432.0 354.0,432.0 350,442" fill="#222" stroke="none"/>
 <polyline points="350,528 350,577" fill="none"/>
 <polygon points="350,577 346.0,567.0 354.0,567.0 350,577" fill="#222" stroke="none"/>
-<text x="376" y="555" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="15" font-weight="normal">Yes</text>
+<text x="376" y="555" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="15" font-weight="normal">Sí</text>
 <polyline points="350,633 350,677" fill="none"/>
 <polygon points="350,677 346.0,667.0 354.0,667.0 350,677" fill="#222" stroke="none"/>
 <polyline points="350,733 350,777" fill="none"/>
 <polygon points="350,777 346.0,767.0 354.0,767.0 350,777" fill="#222" stroke="none"/>
 <polygon points="538.0,457.0 730.0,457.0 712.0,513.0 520.0,513.0 538.0,457.0"/>
-<text x="625" y="491" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Show payment error</text>
+<text x="625" y="491" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="14" font-weight="normal">Mostrar el error de pago</text>
 <polyline points="475,485 529,485" fill="none"/>
 <polygon points="529,485 519.0,489.0 519.0,481.0 529,485" fill="#222" stroke="none"/>
 <text x="498" y="467" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="15" font-weight="normal">No</text>
 <polyline points="625,457 625,275 475,275" fill="none"/>
 <polygon points="475,275 485.0,271.0 485.0,279.0 475,275" fill="#222" stroke="none"/>
-<text x="380" y="875" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Example: accepting, recording and confirming a payment.</text>
+<text x="380" y="875" text-anchor="middle" fill="#111" stroke="none" font-family="Arial, sans-serif" font-size="16" font-weight="normal">Ejemplo: aceptación, registro y confirmación de un pago.</text>
 </g></svg>
